@@ -9,11 +9,11 @@ This prototype collects various information and data from Valorant matches being
 
 
 # CONTRIBUTORS
-- Karis Liao <github.com/kliao25>
-- Gabriella Gerges <github.com/luxscious>
-- Ethan Machej <github.com/emachej>
-- Rohan Kamra Lyons <github.com/doccmod>
-- Areej Ansari <github.com/riji-ansari>
+- Karis Liao <(github.com/kliao25)>
+- Gabriella Gerges <(github.com/luxscious)>
+- Ethan Machej <(github.com/emachej)>
+- Rohan Kamra Lyons <(github.com/doccmod)>
+- Areej Ansari <(github.com/riji-ansari)>
 
 
 
