@@ -6,7 +6,7 @@ As Valorant is a growing game, more players are becoming competitive and forming
 This prototype collects various information and data from Valorant matches being played in tournaments. This data will be stored and sorted, to be available for user access through the different functions proposed. Different user types accessing the software (e.g. spectators, tournament sponsors, and players) will also be gathered, which will modify how certain functions work, and display their respective statistics.
 
 # SITE PAGES
-<img width="1029" alt="Homepage" src="https://user-images.githubusercontent.com/71096997/145123321-e43bf178-2ad9-4d8a-8226-fd5c747dfcb5.png">
+<img width="500" alt="Homepage" src="https://user-images.githubusercontent.com/71096997/145123321-e43bf178-2ad9-4d8a-8226-fd5c747dfcb5.png">
 
 # CONTRIBUTORS
 - Karis Liao <http://github.com/kliao25>
